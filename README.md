@@ -7,7 +7,7 @@ Ce projet est une simulation d'un réseau de routeurs utilisant le protocole RIP
 ## Structure du Projet
 
 La structure du projet est la suivante :
-
+```
 .
 ├── config
 │   ├── routeur-client.yaml
@@ -27,6 +27,7 @@ La structure du projet est la suivante :
     ├── router.py
     ├── routing_table.py
     └── utils.py
+```
 
 
 ### Dossiers et Fichiers
